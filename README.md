@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsonawale&show_icons=true&locale=en&layout=compact" alt="ayushsonawale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsonawale&show_icons=true&locale=en" alt="ayushsonawale" /></p>
+
+Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{ayushsonawale}/count.svg)
