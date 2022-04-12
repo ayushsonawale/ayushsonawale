@@ -1,5 +1,3 @@
-<img src="https://camo.githubusercontent.com/4da399c3a8f66b662e6c7c2ad787ce979082d31ab3270866174dd686b224ce34/68747470733a2f2f63646e2e61636f64657a2e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f42616e6e65722d696d6167652d342e706e67" alt="Image">
-
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate BackEnd developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
