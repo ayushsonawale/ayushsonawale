@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_ayush25" target="blank"><img src="https://img.shields.io/twitter/follow/the_ayush25?logo=twitter&style=for-the-badge" alt="the_ayush25" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **C, C++, Java, MySQL**
 
